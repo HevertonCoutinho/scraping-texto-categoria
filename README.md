@@ -56,6 +56,6 @@ Sugiro que ao iniciar o programa acompanhe toda a execução pelo terminal
 7. Por fim temos aqui o retorno de todos os textos de categoria:
  ![image](https://user-images.githubusercontent.com/59829877/209573451-205dcd6e-eadd-41c7-9801-a1685815379d.png)
  
-8. Ao finalizar o processo de raspagem é gerado automaticamente um arquivo csv com o nome texto_Expath.csv
+8. Ao finalizar o processo de raspagem é gerado automaticamente um arquivo csv com o nome texto_Xpath.csv
 ![image](https://user-images.githubusercontent.com/59829877/209573636-790aa170-177a-4f70-a6d5-d9927e798da3.png)
 
