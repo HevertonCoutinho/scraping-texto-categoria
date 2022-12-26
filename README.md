@@ -1,4 +1,4 @@
-#Exportador de textos via Path
+#Exportador de textos de categoria
 
 ## Layout
 - Construtor utilizado: Biblioteca TKinter
