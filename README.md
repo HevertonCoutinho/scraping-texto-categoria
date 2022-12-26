@@ -49,12 +49,11 @@ Ao obter a lista de URLs faça o upload (Mantenha apenas os URLs e todos na mesm
 ![image](https://user-images.githubusercontent.com/59829877/209572763-e251bd67-23b4-48b9-a2bd-dbd6dc3ad08e.png)
 
 6. Ao selecionar o arquivo é só cliclar em enviar.
-**![image](https://user-images.githubusercontent.com/59829877/209572995-d7a62893-96dd-412f-a1c8-d6243b5ec02c.png)
-**
-Sugiro que ao iniciar o programa acompanhe toda a execução pelo terminal
+![image](https://user-images.githubusercontent.com/59829877/209584129-af8f9bcd-d400-4517-989a-41748fa85f6f.png)
+<br>Sugiro que ao iniciar o programa acompanhe toda a execução pelo terminal
 
 7. Por fim temos aqui o retorno de todos os textos de categoria:
- ![image](https://user-images.githubusercontent.com/59829877/209573451-205dcd6e-eadd-41c7-9801-a1685815379d.png)
+ ![image](https://user-images.githubusercontent.com/59829877/209584094-e82251ac-7dcc-423a-ac8e-97d509d2a3f0.png)
  
 8. Ao finalizar o processo de raspagem é gerado automaticamente um arquivo csv com o nome texto_Xpath.csv
 ![image](https://user-images.githubusercontent.com/59829877/209573636-790aa170-177a-4f70-a6d5-d9927e798da3.png)
